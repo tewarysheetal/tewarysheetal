@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me
-I’m building a strong foundation in **data science** by mastering core concepts step by step and applying **statistical knowledge** through hands-on projects.  
-I have experience in **data engineering** and **statistical analysis**, helping me create models that are **accurate**, **scalable**, and **business-focused**.
+I’m building a strong foundation in **data science** by mastering core concepts step by step and applying **statistical knowledge** through hands-on projects. 
+My experience in **data engineering** and **statistical analysis** helps me build **accurate**, **scalable**, and **business-focused** models.
 
 Previously, I worked as a **Senior Data Consultant** at **Informatica** and **Data Engineer** at **Accenture**, contributing to **enterprise-scale ETL systems** handling **10+ billion records** and supporting **analytics-driven decision making**. After six years of working in industry, I’m switching gears and moving into **Data Science**.
 
