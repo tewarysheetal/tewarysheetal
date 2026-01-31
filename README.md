@@ -9,11 +9,10 @@
 ---
 
 ## 🚀 About Me
-I’m a **Statistics graduate student at UIUC** with strong experience in **data science, machine learning, and applied statistical modeling**.  
-I have experience in **data engineering** and **statistical analysis**, helping me create models that are accurate, scalable, and business-focused.
+I’m building a strong foundation in **data science** by mastering core concepts step by step and applying **statistical knowledge** through hands-on projects.  
+I have experience in **data engineering** and **statistical analysis**, helping me create models that are **accurate**, **scalable**, and **business-focused**.
 
-Previously, I worked as a **Senior Data Consultant at Informatica** and **Data Engineer at Accenture**, contributing to enterprise-scale ETL systems handling **10+ billion records** and supporting analytics-driven decision making. 
-After six years of working in industry, I’m switching gears and moving into Data Science.
+Previously, I worked as a **Senior Data Consultant** at **Informatica** and **Data Engineer** at **Accenture**, contributing to **enterprise-scale ETL systems** handling **10+ billion records** and supporting **analytics-driven decision making**. After six years of working in industry, I’m switching gears and moving into **Data Science**.
 
 ---
 
@@ -53,9 +52,6 @@ ETL / ELT Pipelines · Data Quality · MDM · Data Governance · Data Warehousin
 
 ## 📄 Resume
 - **[View Resume](./Sheetal_Tewary_Resume.pdf)**
-
-> MS in Statistics (UIUC) | Data Science, Machine Learning, Statistical Modeling  
-> Former Senior Data Consultant @ Informatica | Data Engineer @ Accenture
 
 ---
 
