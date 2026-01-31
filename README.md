@@ -52,8 +52,7 @@ ETL / ELT Pipelines · Data Quality · MDM · Data Governance · Data Warehousin
 ---
 
 ## 📄 Resume
-📥 **[Download Resume (PDF)](./Sheetal_Tewary_Resume.pdf)**  
-📑 **[View Resume](./Sheetal_Tewary_Resume.pdf)**
+- **[View Resume](./Sheetal_Tewary_Resume.pdf)**
 
 > MS in Statistics (UIUC) | Data Science, Machine Learning, Statistical Modeling  
 > Former Senior Data Consultant @ Informatica | Data Engineer @ Accenture
